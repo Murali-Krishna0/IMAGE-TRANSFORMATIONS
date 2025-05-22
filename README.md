@@ -112,33 +112,44 @@ plt.axis('off')
 
 ```
 ## Output:
-### i)Image Translation
+### i) Original image
+
+![image](https://github.com/user-attachments/assets/b8a2c83a-367a-4bd5-8ca7-28920345fe81)
+
+
+### ii)Image Translation
+
 ![image](https://github.com/user-attachments/assets/faa7b762-4dbd-4835-981d-24472751fd5c)
 
 
-### ii) Image Scaling
+### iii) Image Scaling
+
 ![image](https://github.com/user-attachments/assets/4115581f-0c43-436c-aef1-34410b0610ab)
 
 
 
-### iii)Image shearing
+### iv)Image shearing
+
 ![image](https://github.com/user-attachments/assets/7dd1cca0-cf99-4ef0-9b35-a3b4d1b99f94)
 
 
 
-### iv)Image Reflection
+### v)Image Reflection
+
 ![image](https://github.com/user-attachments/assets/7a6ee7b0-f749-4ed3-80f5-caa8a8a4cdd2)
 
 
 
 
-### v)Image Rotation
+### vi)Image Rotation
+
 ![image](https://github.com/user-attachments/assets/d56c6e65-2909-41de-b2bf-a636cd579a16)
 
 
 
 
-### vi)Image Cropping
+### vii)Image Cropping
+
 ![image](https://github.com/user-attachments/assets/817c75ed-5461-4679-9a80-12fa0c99aa3a)
 
 
